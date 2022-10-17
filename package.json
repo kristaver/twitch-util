@@ -1,0 +1,21 @@
+{
+  "name": "twitch-util",
+  "version": "1.0.0",
+  "description": "application to get most wholesome twitch comment from chat every N seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitch",
+    "utility",
+    "chat",
+    "sentiment",
+    "analysis"
+  ],
+  "author": "kristaver",
+  "license": "ISC",
+  "dependencies": {
+    "sentiment": "^5.0.2"
+  }
+}
